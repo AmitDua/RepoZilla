@@ -18,7 +18,6 @@ Repozilla is a fully implemented, production-ready repository library designed f
 - Audit trail and versioning with upgrade previews and rollback  
 - Upgrade path validation and historical inspection  
 - 40+ test cases covering edge scenarios, OWASP threats, and nested data  
-- Modular architecture built on `Jamun.Model.Dto.Repository`  
 - Semantic versioning and compatibility matrix powered by [VersionSurgeon](https://github.com/AmitDua/VersionSurgeon)
 
 **Deep Search Highlights**
